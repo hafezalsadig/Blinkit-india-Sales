@@ -1,0 +1,5 @@
+ Introduction
+
+This project aims to conduct a comprehensive analysis of **Blinkit’s sales performance** using Business Intelligence techniques and **Power BI** dashboards. The objective is to provide a clear and holistic view of sales trends and the key factors that influence them. An interactive dashboard was developed based on historical sales data, incorporating key performance indicators (KPIs) such as total sales, average sales, number of items sold, and average customer rating. The analysis further explores sales performance across several critical dimensions, including **fat content, product type, outlet size, geographic location, and outlet age/facility type**.
+
+This project enables management to gain deeper insights into consumer behavior, identify the most in-demand products and categories, and understand the impact of outlet characteristics and regional distribution on overall sales performance. The insights derived from the dashboard support strategic decision-making in areas such as inventory management, customer experience enhancement, and investment allocation toward high-performing outlets and regions.
